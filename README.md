@@ -1,7 +1,6 @@
 ﻿Analysis of regression problem with and without weight-decay regularization
 
-Introduction
-
+Introduction:
 X and Y are both real valued random variables, where X takes value in (0, 1) and Y depends on X according to
 Y = cos(2πX) + Z 
 where Z is a zero mean Gaussian random variable with variance σ square and Z is independent of X. Based on the observed sample (X,Y) learning a polynomial regression model and examining the fitting and generalization capability of the model in relation to the model complexity and sample size.
