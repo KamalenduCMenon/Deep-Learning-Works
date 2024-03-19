@@ -2,10 +2,13 @@
 
 
 X and Y are both real valued random variables, where X takes value in (0, 1) and Y depends on X according to
+
 Y = cos(2πX) + Z 
+
 where Z is a zero mean Gaussian random variable with variance σ square and Z is independent of X. Based on the observed sample (X,Y) learning a polynomial regression model and examining the fitting and generalization capability of the model in relation to the model complexity and sample size.
 
 Steps:
+
 ❼ A function getData was created for generating the (X,Y) of N sample size and noise σ square.
 
 ❼ Second function getMSE, which calculate the Mean Square error was created.
@@ -24,6 +27,7 @@ Steps:
 
 
 Conclusion:
+
 ❼ In machine learning, models tend to overfit when there is limited data that is model fits the noise in the training data, leading to a large gap between training and testing errors.
 
 ❼ As the sample size increases, the model is less likely to overfit because there is more data to learn from. As a results there is a reduction in the variance of the model’s predictions and a smaller gap between training and testing errors.
