@@ -20,8 +20,3 @@ We evaluate the impact of model complexity (degree), sample size (N), and noise 
 
 ## 🛠 Tech
 - Python, NumPy, Matplotlib
-
-## 📁 Files
-- `main.py`: Runs experiments
-- `utils.py`: Helper functions
-- `plots/`: Output graphs
