@@ -46,5 +46,4 @@ Tuning helps find the most effective combinations to improve test accuracy while
 
 ---
 
-Feel free to explore the notebooks and scripts in this repository to understand the full workflow from data preprocessing to model evaluation.
 
