@@ -1,6 +1,5 @@
 # Neural Network Fundamentals and Optimization Techniques
 
-**Author:** Kamalendu Chembakassery Menon
 
 This repository contains two projects that explore foundational neural network concepts and optimization techniques:
 
