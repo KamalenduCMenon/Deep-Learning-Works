@@ -1,7 +1,5 @@
 # Study of Hyperparameter for LSTM and SimpleRNN Model for Text Classification
 
-**Author:** Kamalendu Chembakassery Menon
-
 ---
 
 This project focuses on analyzing how different hyperparameters impact the performance of Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) models in a text classification task. The IMDb movie reviews dataset is used for training and evaluating sentiment classification performance.
